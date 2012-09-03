@@ -7,7 +7,7 @@ title: Eric Dykstra's Blog
 subtitle: Thoughs on Thoughts
 author: Eric Dykstra
 simple_search: http://google.com/search
-description: Eric Dykstra's blog, where he blogs about things that should be blogged about.
+description: Eric Dykstra's blog.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -72,7 +72,7 @@ twitter_show_follower_count: false
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
