@@ -4,10 +4,10 @@
 
 url: http://blog.ericdykstra.me
 title: Eric Dykstra's Blog
-subtitle: Web Design, Web Development, Design, and the Web.
+subtitle: "Web Design, Web Development, Design, and the Web."
 author: Eric Dykstra
 simple_search: http://google.com/search
-description: Eric Dykstra's blog: thoughts on web design, web development, design, and the web.
+description: "Eric Dykstra's blog: thoughts on web design, web development, design, and the web."
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
