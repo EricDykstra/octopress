@@ -37,7 +37,7 @@ This is a poor use of long-form design. I have to imagine if you're going specif
 Here is our first example without any call to action. This is purely a story to convey information for a brand. Although the background is a little bit distracting, it follows a good form. First, showing the logo, by itself, with no distractions. After that, a letter from the president, and following that even more information. I like the use of a long-form page for this kind of information because it acts as a press release, but is done in a creative way that shows of the personality of the new brand.
 
 ###[[Grouper homepage](https://www.joingrouper.com/)**  
-        
+   <br>     
 Grouper is a startup company, and most people going to the site likely don't know what it's all about; it's certainly not an established brand. We start at the top with a quick, concise explanation and a call to action, follow that with some testimonial quotes that explain the atmosphere of the brand, and then end the page with a slightly longer explanation and a list of available cities. I think it would be useful if there was another "join" button at the bottom of the site, as well as maybe a paragraph of information somewhere on the page, but overall this is an effective use of long-form design. The design itself has a lot of personality and is overall fantastic.
 
 And that's all. I hope these examples give you a better idea of when long-form pages can be effective, and also that it's not a design trend that can be smashed into any use case. Let me know if you've seen any other great uses of this design (or even terrible ones!), and what you think of the article in the comments below.
