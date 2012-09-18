@@ -36,5 +36,3 @@ Here is our first example without any call to action. This is purely a story to 
 Grouper is a startup company, and most people going to the site likely don't know what it's all about; it's certainly not an established brand. We start at the top with a quick, concise explanation and a call to action, follow that with some testimonial quotes that explain the atmosphere of the brand, and then end the page with a slightly longer explanation and a list of available cities. I think it would be useful if there was another "join" button at the bottom of the site, as well as maybe a paragraph of information somewhere on the page, but overall this is an effective use of long-form design. The design itself has a lot of personality and is overall fantastic.
 
 And that's all. I hope these examples give you a better idea of when long-form pages can be effective, and also that it's not a design trend that can be smashed into any use case. Let me know if you've seen any other great uses of this design (or even terrible ones!), and what you think of the article in the comments below.
-
-And, if you like, discuss on [Hacker News](http://news.ycombinator.com/item?id=4539600)
